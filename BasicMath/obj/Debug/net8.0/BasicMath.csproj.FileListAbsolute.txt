@@ -1,0 +1,15 @@
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\bin\Debug\net8.0\BasicMath.exe
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\bin\Debug\net8.0\BasicMath.deps.json
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\bin\Debug\net8.0\BasicMath.runtimeconfig.json
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\bin\Debug\net8.0\BasicMath.dll
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\bin\Debug\net8.0\BasicMath.pdb
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\obj\Debug\net8.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\obj\Debug\net8.0\BasicMath.AssemblyInfoInputs.cache
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\obj\Debug\net8.0\BasicMath.AssemblyInfo.cs
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\obj\Debug\net8.0\BasicMath.csproj.CoreCompileInputs.cache
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\obj\Debug\net8.0\BasicMath.dll
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\obj\Debug\net8.0\refint\BasicMath.dll
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\obj\Debug\net8.0\BasicMath.pdb
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\obj\Debug\net8.0\BasicMath.genruntimeconfig.cache
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\obj\Debug\net8.0\ref\BasicMath.dll
+E:\Extremely_Important_Files_For_Studies\A_SoftDev\Lab9\BasicMath\obj\Debug\net8.0\BasicMath.sourcelink.json
